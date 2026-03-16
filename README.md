@@ -84,7 +84,7 @@ handling world building, lore, 3D modelling & a bit of Lua scripting on the side
 
 ## `> contact`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalin-homorozan-93153a365/)
 
 ---
 
