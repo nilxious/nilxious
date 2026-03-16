@@ -1,3 +1,7 @@
+## Featured Projects
+
+[UBB-INFO](https://github.com/nilxious/UBB-INFO)
+
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilxious&layout=compact)
