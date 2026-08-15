@@ -25,7 +25,7 @@ university:  Universitatea Babeș-Bolyai — Informatică
 focus:       software development + game design
 ```
 
-Currently building a **turn-based MMORPG** on Roblox —  
+Currently building a **turn-based MMORPG** on Roblox —
 handling world building, lore, 3D modelling & a bit of Lua scripting on the side.
 
 ---
@@ -51,10 +51,23 @@ handling world building, lore, 3D modelling & a bit of Lua scripting on the side
 
 ---
 
+## `> shipped`
+
+### ⛏️ Miners Equilibrium — *Roblox*
+**Status:** ✅ Completed · Solo Developer
+
+Sandbox tycoon în care poți **mina**, **programa & automatiza** setup-uri, **explora** harta și **crafta** iteme noi.
+Construit integral solo — de la gameplay loop la scripting și balansare economică.
+
+🔗 **[Play it here](https://www.roblox.com/games/118222818413147/Miners-Equilibrium)**
+
+---
+
 ## `> projects --featured`
 
 | Project | Description |
 |---|---|
+| ⛏️ **[Miners Equilibrium](https://www.roblox.com/games/118222818413147/Miners-Equilibrium)** *(Roblox)* | Sandbox tycoon solo — mining, programming & automation, exploration, crafting |
 | 🗺️ **Turn-Based MMORPG** *(Roblox)* | Original IP — world building, lore, 3D modelling & Lua |
 | 📚 **[UBB-INFO](https://github.com/nilxious/UBB-INFO)** | Resources & projects from my CS degree |
 
