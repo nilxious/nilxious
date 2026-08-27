@@ -56,8 +56,8 @@ handling world building, lore, 3D modelling & a bit of Lua scripting on the side
 ### ⛏️ Miners Equilibrium — *Roblox*
 **Status:** ✅ Completed · Solo Developer
 
-Sandbox tycoon în care poți **mina**, **construi, programa & automatiza** setup-uri, **explora** harta și **crafta** iteme noi.
-Construit integral solo — de la gameplay loop la scripting și balansarea progression-ului.
+Sandbox tycoon in which you can mine, build, program and automate setups, **explora** the map and craft new items.
+Built solo — from the gameplay loop, testing, to the scripting and balancing of the progression.
 
 🔗 **[Play it here](https://www.roblox.com/games/118222818413147/Miners-Equilibrium)**
 
