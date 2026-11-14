@@ -20,9 +20,9 @@
 
 ```yaml
 name:        nilxious
-location:    Cluj-Napoca, Romania
-university:  Universitatea Babeș-Bolyai — Informatică
-focus:       software development + game design
+location:    Secret
+university:  Secret
+focus:       software development + game development
 ```
 
 Currently building a **turn-based MMORPG** on Roblox —
